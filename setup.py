@@ -10,7 +10,7 @@ setup(
     ],
     entry_points={
         'console_scripts': [
-            'math_quiz = math_quiz.math_quiz:main',  # If you want to make it a CLI tool
+            'math_quiz = math_quiz.math_quiz:math_quiz', 
         ],
     },
 )
