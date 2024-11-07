@@ -5,8 +5,6 @@ setup(
     version='0.1',
     packages=find_packages(),
     install_requires=[
-        # Add any dependencies here, for example:
-        # 'numpy', 'requests'
     ],
     entry_points={
         'console_scripts': [
